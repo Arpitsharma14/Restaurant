@@ -1,0 +1,21 @@
+.footer
+{
+	border: 0px solid black;
+	height: 150px;
+	width:100%;
+	background-color: black;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	
+}
+
+.footerb
+{
+	height: 130px;
+	width: 300px;
+	border: 0px solid blue;
+	float: left;
+	color: white;
+	text-align: center;
+}
